@@ -1,0 +1,731 @@
+[
+ {
+  "id": "diffit",
+  "name": "Diffit",
+  "url": "https://web.diffit.me",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "reading",
+   "vocabulary"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free Basic; paid teacher/school licenses",
+  "note": "Rewrites any article or topic into leveled readings with vocab and questions.",
+  "pricing_source": "https://web.diffit.me/pricing",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "eduaide",
+  "name": "Eduaide.ai",
+  "url": "https://www.eduaide.ai",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "reading",
+   "writing",
+   "vocabulary",
+   "grammar"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free tier; Pro unverified",
+  "note": "Generates lesson resources, activities and feedback from a topic.",
+  "pricing_source": "https://www.eduaide.ai/pricing",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "gemini",
+  "name": "Google Gemini",
+  "url": "https://gemini.google.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "speaking",
+   "writing",
+   "grammar",
+   "vocabulary",
+   "reading"
+  ],
+  "audience": "both",
+  "price_tier": "Freemium",
+  "starting_price": "Free",
+  "note": "General assistant; learners can practice conversation, teachers draft materials.",
+  "pricing_source": "https://gemini.google.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "readingcoach",
+  "name": "Microsoft Reading Coach",
+  "url": "https://coach.microsoft.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1"
+  ],
+  "skills": [
+   "reading",
+   "pronunciation"
+  ],
+  "audience": "learner",
+  "price_tier": "Free",
+  "starting_price": "Free",
+  "note": "Reading-aloud practice with feedback on tricky words.",
+  "pricing_source": "https://coach.microsoft.com",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "url": "https://chatgpt.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "speaking",
+   "listening",
+   "writing",
+   "grammar",
+   "vocabulary",
+   "reading"
+  ],
+  "audience": "both",
+  "price_tier": "Freemium",
+  "starting_price": "Free plan; Go/Plus/Pro paid",
+  "note": "Voice mode for conversation practice; teachers build worksheets and role-plays.",
+  "pricing_source": "https://chatgpt.com/pricing",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "kahoot",
+  "name": "Kahoot!",
+  "url": "https://kahoot.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "vocabulary",
+   "grammar"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free account; paid education plans",
+  "note": "AI-assisted quiz builder for vocabulary and grammar review games.",
+  "pricing_source": "https://kahoot.com/pricing",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "heygen",
+  "name": "HeyGen",
+  "url": "https://www.heygen.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "listening"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free 3 videos/mo; Creator $29/mo",
+  "note": "Make short AI-presenter listening clips and dialogues.",
+  "pricing_source": "https://www.heygen.com/pricing",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "elsa",
+  "name": "ELSA Speak",
+  "url": "https://elsaspeak.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "pronunciation",
+   "speaking"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free limited; Pro unverified",
+  "note": "AI pronunciation coach scoring individual sounds and stress.",
+  "pricing_source": "https://elsaspeak.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "promova",
+  "name": "Promova",
+  "url": "https://promova.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2"
+  ],
+  "skills": [
+   "vocabulary",
+   "speaking",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free limited; Premium unverified",
+  "note": "Bite-size English lessons with AI conversation practice.",
+  "pricing_source": "https://promova.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "speak",
+  "name": "Speak",
+  "url": "https://www.speak.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2"
+  ],
+  "skills": [
+   "speaking",
+   "listening"
+  ],
+  "audience": "learner",
+  "price_tier": "Paid",
+  "starting_price": "Free trial; subscription unverified",
+  "note": "Speaking-first app with an AI tutor for spoken drills.",
+  "pricing_source": "https://www.speak.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "eslvideo",
+  "name": "ESLvideo / Neo English",
+  "url": "https://eslvideo.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2"
+  ],
+  "skills": [
+   "listening",
+   "vocabulary"
+  ],
+  "audience": "both",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "Video-based listening quizzes; teachers can build their own.",
+  "pricing_source": "https://eslvideo.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "gliglish",
+  "name": "Gliglish",
+  "url": "https://gliglish.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "speaking",
+   "listening"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free daily minutes; paid unverified",
+  "note": "Voice chat with an AI teacher in role-play scenarios.",
+  "pricing_source": "https://gliglish.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "lessonmate",
+  "name": "Lesson Mate AI",
+  "url": "https://www.lessonmate.ai",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "reading",
+   "writing",
+   "grammar",
+   "vocabulary"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "AI lesson-plan generator aimed at language teachers.",
+  "pricing_source": "https://www.lessonmate.ai",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "magicschool",
+  "name": "MagicSchool",
+  "url": "https://www.magicschool.ai",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "reading",
+   "writing",
+   "vocabulary"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free; Plus $12.99/mo ($8.33 billed annually)",
+  "note": "80+ teacher tools incl. text leveler and vocab lists; built for K-12 but useful for adults.",
+  "pricing_source": "https://www.magicschool.ai/pricing",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "brisk",
+  "name": "Brisk Teaching",
+  "url": "https://www.briskteaching.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "reading",
+   "writing"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "Chrome extension to re-level texts and give writing feedback in Google Docs.",
+  "pricing_source": "https://www.briskteaching.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "notebooklm",
+  "name": "NotebookLM",
+  "url": "https://notebooklm.google.com",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "listening",
+   "reading"
+  ],
+  "audience": "both",
+  "price_tier": "Free",
+  "starting_price": "Free (paid tiers via Google One unverified)",
+  "note": "Turns readings into audio overviews for listening practice.",
+  "pricing_source": "https://notebooklm.google.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "copilot",
+  "name": "Microsoft Copilot",
+  "url": "https://copilot.microsoft.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "speaking",
+   "writing",
+   "grammar",
+   "vocabulary"
+  ],
+  "audience": "both",
+  "price_tier": "Freemium",
+  "starting_price": "Free",
+  "note": "General assistant with voice; handy for drafting and explaining grammar.",
+  "pricing_source": "https://copilot.microsoft.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "claude",
+  "name": "Claude",
+  "url": "https://claude.ai",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "writing",
+   "grammar",
+   "reading"
+  ],
+  "audience": "both",
+  "price_tier": "Freemium",
+  "starting_price": "Free; Pro unverified",
+  "note": "Strong at explaining grammar and giving gentle writing feedback.",
+  "pricing_source": "https://claude.ai",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "twee",
+  "name": "Twee",
+  "url": "https://twee.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "reading",
+   "listening",
+   "vocabulary",
+   "grammar",
+   "writing"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Free plan; paid unverified",
+  "note": "Built for English teachers: questions from YouTube videos, texts, dialogues, vocab tasks.",
+  "pricing_source": "https://twee.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "writeimprove",
+  "name": "Write & Improve (Cambridge)",
+  "url": "https://writeandimprove.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "writing",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Free",
+  "starting_price": "Free",
+  "note": "Cambridge's writing checker gives a CEFR-aligned level and feedback.",
+  "pricing_source": "https://writeandimprove.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "grammarly",
+  "name": "Grammarly",
+  "url": "https://www.grammarly.com",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "writing",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free; Pro from $12/mo billed annually",
+  "note": "Grammar and clarity suggestions for emails and essays.",
+  "pricing_source": "https://www.grammarly.com/plans",
+  "pricing_verified": true,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "languagetool",
+  "name": "LanguageTool",
+  "url": "https://languagetool.org",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "writing",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free; Premium unverified",
+  "note": "Multilingual grammar checker; can explain errors in the learner's first language context.",
+  "pricing_source": "https://languagetool.org/premium",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "quillbot",
+  "name": "QuillBot",
+  "url": "https://quillbot.com",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "writing",
+   "grammar",
+   "vocabulary"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Free; Premium unverified",
+  "note": "Paraphraser and grammar checker for upper-level writing practice.",
+  "pricing_source": "https://quillbot.com/premium",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "praktika",
+  "name": "Praktika",
+  "url": "https://www.praktika.ai",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "speaking",
+   "listening"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "AI avatar tutors for spoken English conversation.",
+  "pricing_source": "https://www.praktika.ai",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "talkpal",
+  "name": "Talkpal",
+  "url": "https://talkpal.ai",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "speaking",
+   "listening",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "GPT-powered conversation partner with role-plays and debates.",
+  "pricing_source": "https://talkpal.ai",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "langua",
+  "name": "Langua",
+  "url": "https://languatalk.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "speaking",
+   "listening",
+   "vocabulary"
+  ],
+  "audience": "learner",
+  "price_tier": "Paid",
+  "starting_price": "Unverified",
+  "note": "AI conversation partner with corrections and saved vocab.",
+  "pricing_source": "https://languatalk.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "boldvoice",
+  "name": "BoldVoice",
+  "url": "https://www.boldvoice.com",
+  "levels": [
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "pronunciation",
+   "speaking"
+  ],
+  "audience": "learner",
+  "price_tier": "Paid",
+  "starting_price": "Unverified (free trial)",
+  "note": "Accent and pronunciation training from coach videos plus AI feedback.",
+  "pricing_source": "https://www.boldvoice.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "cathoven",
+  "name": "Cathoven",
+  "url": "https://cathoven.com",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "reading",
+   "writing",
+   "vocabulary"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Unverified",
+  "note": "CEFR text analyzer and adapter; checks reading level of any passage.",
+  "pricing_source": "https://cathoven.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "eslbrains",
+  "name": "ESL Brains",
+  "url": "https://www.eslbrains.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1"
+  ],
+  "skills": [
+   "speaking",
+   "reading",
+   "vocabulary",
+   "listening"
+  ],
+  "audience": "teacher",
+  "price_tier": "Freemium",
+  "starting_price": "Some free lessons; premium unverified",
+  "note": "Ready-made adult ESL lessons plus AI-assisted lesson tools.",
+  "pricing_source": "https://www.eslbrains.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "youglish",
+  "name": "YouGlish",
+  "url": "https://youglish.com",
+  "levels": [
+   "A2",
+   "B1",
+   "B2",
+   "C1",
+   "C2"
+  ],
+  "skills": [
+   "pronunciation",
+   "listening"
+  ],
+  "audience": "both",
+  "price_tier": "Free",
+  "starting_price": "Free",
+  "note": "Hear any word or phrase in real YouTube speech (not generative AI, but a great companion).",
+  "pricing_source": "https://youglish.com",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ },
+ {
+  "id": "duolingomax",
+  "name": "Duolingo Max",
+  "url": "https://www.duolingo.com/max",
+  "levels": [
+   "A1",
+   "A2",
+   "B1",
+   "B2"
+  ],
+  "skills": [
+   "speaking",
+   "listening",
+   "vocabulary",
+   "grammar"
+  ],
+  "audience": "learner",
+  "price_tier": "Paid",
+  "starting_price": "Unverified",
+  "note": "Duolingo's AI tier with Video Call and Explain My Answer.",
+  "pricing_source": "https://www.duolingo.com/max",
+  "pricing_verified": false,
+  "last_checked": "2026-10-16"
+ }
+]
